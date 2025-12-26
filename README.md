@@ -2,7 +2,7 @@
 
 ## 🧾 Overview
 
-This Minor Project consists of a **trio of database-based applications** developed using **SQL and PL/SQL**.  
+This Minor Project consists of a **Database-based applications** developed using **SQL and PL/SQL**.  
 The project focuses on applying database concepts such as **tables, constraints, triggers, procedures, functions, cursors, and exception handling** in real-world scenarios.
 
 The objective of this project is to:
@@ -76,7 +76,7 @@ The objective of this project is to:
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone <(https://github.com/akhilsoni04/PL-SQL-Minor-Project.git)>
 2. Open SQL/PLSQL environment
 3. Execute table creation scripts
 4. Insert sample data
